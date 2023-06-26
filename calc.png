@@ -1,0 +1,41 @@
+:~$ java calculator
+Order no. #361819
+Enter the date:
+11/5
+Enter how many products are there:
+3
+
+Enter product id:
+102
+Enter product name:
+soap
+Enter the Quantity:
+5
+Enter the unit price:
+60
+
+Enter product id:
+103
+Enter product name:
+pen
+Enter the Quantity:
+ 7    
+Enter the unit price:
+10
+
+Enter product id:
+104
+Enter product name:
+rice  
+Enter the Quantity:
+4
+Enter the unit price:
+28
+Date:11/5
+Product Id 	Name	   Quantity	   unit price	 Total 
+--------------------------------------------------------------
+102		soap		5		60.0	300.0
+103		pen		7		10.0	70.0
+104		rice		4		28.0	112.0
+--------------------------------------------------------------
+			Net.Amount	482.0
